@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "suffix": "Family Office",
+    "seat": "Berlin"
+  },
+  "nav": {
+    "about": "Über uns",
+    "activities": "Tätigkeitsfelder",
+    "philosophy": "Philosophie",
+    "contact": "Kontakt",
+    "legal": "Rechtliches",
+    "close": "Schliessen"
+  },
+  "home": {
+    "stamp": "Independent Family Office",
+    "headline": "Holt Family Office",
+    "sub_italic": "Werte bewahren. Perspektiven schaffen.",
+    "sub_meta": "I — Übersicht",
+    "intro_eyebrow": "Einleitung",
+    "intro_title": "Werte bewahren. Perspektiven schaffen.",
+    "intro_lead": "Als unabhängiges Family Office verbinden wir generationenübergreifendes Denken mit unternehmerischer Weitsicht.",
+    "intro_p": "Im Mittelpunkt unserer Arbeit steht der verantwortungsvolle Umgang mit anvertrauten Werten — diskret, langfristig und mit höchstem Anspruch.",
+    "gateway_about_eyebrow": "Über uns",
+    "gateway_about_title": "Ein verlässlicher Partner.",
+    "gateway_about_p": "Strukturierung und Verwaltung von Vermögen — geprägt von Kontinuität, Vertraulichkeit und einem klaren Bekenntnis zu bleibenden Werten.",
+    "gateway_about_link": "Mehr erfahren",
+    "gateway_philosophy_eyebrow": "Philosophie",
+    "gateway_philosophy_title": "In Generationen, nicht in Quartalen.",
+    "gateway_philosophy_p": "Beständigkeit entsteht nicht über Nacht. Diese Haltung prägt jede unserer Entscheidungen.",
+    "gateway_philosophy_link": "Zur Philosophie"
+  },
+  "about": {
+    "eyebrow": "Über uns",
+    "title": "Ein verlässlicher Partner.",
+    "lead": "Wir verstehen uns als verlässlicher Partner für die Strukturierung und Verwaltung von Vermögen.",
+    "p1": "Unsere Tätigkeit ist geprägt von Kontinuität, Vertraulichkeit und einem klaren Bekenntnis zu bleibenden Werten.",
+    "p2": "Dabei bewegen wir uns mit Sicherheit in einem Umfeld, das Erfahrung, Netzwerk und Diskretion gleichermaßen verlangt."
+  },
+  "activities": {
+    "eyebrow": "Tätigkeitsfelder",
+    "title": "Werte, die Bedeutung behalten.",
+    "lead": "Unser Wirken umfasst die Verwaltung eigener Vermögenswerte sowie ausgewählte Engagements im Bereich exklusiver Sachwerte.",
+    "p1": "Mit Gespür für Qualität und Beständigkeit widmen wir uns Werten, die über Generationen hinweg Bedeutung behalten — von herausragenden Gewerken bis hin zu Kunst in ihren vielfältigen Ausprägungen."
+  },
+  "philosophy": {
+    "eyebrow": "Philosophie",
+    "title": "In Generationen, nicht in Quartalen.",
+    "lead": "Beständigkeit entsteht nicht über Nacht.",
+    "p1": "Wir denken in Generationen, nicht in Quartalen.",
+    "p2": "Diese Haltung prägt jede unserer Entscheidungen und bildet das Fundament eines Vertrauens, das sich über Jahre bewährt."
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Im vertraulichen Gespräch.",
+    "lead": "Der persönliche Austausch steht für uns an erster Stelle.",
+    "p1": "Jede Zusammenarbeit beginnt mit einem vertraulichen Gespräch.",
+    "details_eyebrow": "Anschrift",
+    "details_title": "Adressen.",
+    "office_label": "Sitz",
+    "office_value": "Holt Family Office GmbH<br>Kemperplatz 1<br>10117 Berlin<br><br><span class=\"dd-meta\">EUID: DEF1103R.HRB288336B</span>",
+    "correspondence_label": "Korrespondenz",
+    "correspondence_value": "kontakt@holt-familyoffice.com",
+    "appointments_label": "Termine",
+    "appointments_value": "Persönlich, nach vorheriger Vereinbarung.",
+    "download_label": "Übersicht",
+    "download_value": "Broschüre herunterladen (PDF)"
+  },
+  "legal": {
+    "eyebrow": "Rechtliches",
+    "title": "Rechtliche Hinweise.",
+    "lead": "Diese Webseite dient ausschliesslich der Selbstdarstellung des Holt Family Office.",
+    "imprint_title": "Impressum",
+    "imprint_body": "Holt Family Office GmbH<br>Kemperplatz 1, 10117 Berlin<br>Deutschland<br><br>EUID: DEF1103R.HRB288336B",
+    "disclaimer_title": "Haftungsausschluss",
+    "disclaimer_body": "Die auf dieser Seite veröffentlichten Inhalte stellen keine Anlageberatung dar.",
+    "privacy_title": "Datenschutz",
+    "privacy_body": "Diese Webseite erhebt keine personenbezogenen Daten zu Marketingzwecken.",
+    "copyright_title": "Urheberrecht",
+    "copyright_body": "Sämtliche Inhalte sind urheberrechtlich geschützt."
+  },
+  "footer": {
+    "tagline": "Ein unabhängiges Family Office.",
+    "col_navigation": "Übersicht",
+    "col_office": "Sitz",
+    "col_legal": "Rechtliches",
+    "office_line": "Holt Family Office GmbH<br>Kemperplatz 1<br>10117 Berlin",
+    "rights": "© <span data-year></span> Holt Family Office. Alle Rechte vorbehalten.",
+    "tagline_base": "Werte bewahren. Perspektiven schaffen."
+  }
+}

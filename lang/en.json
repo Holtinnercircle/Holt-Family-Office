@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "suffix": "Family Office",
+    "seat": "Berlin"
+  },
+  "nav": {
+    "about": "About",
+    "activities": "Activities",
+    "philosophy": "Philosophy",
+    "contact": "Contact",
+    "legal": "Legal",
+    "close": "Close"
+  },
+  "home": {
+    "stamp": "Independent Family Office",
+    "headline": "Holt Family Office",
+    "sub_italic": "Preserving value. Creating perspective.",
+    "sub_meta": "I — Overview",
+    "intro_eyebrow": "Introduction",
+    "intro_title": "Preserving value. Creating perspective.",
+    "intro_lead": "As an independent family office, we unite cross-generational thinking with entrepreneurial foresight.",
+    "intro_p": "At the heart of our work lies the responsible stewardship of entrusted value — discreet, enduring and held to the highest standard.",
+    "gateway_about_eyebrow": "About",
+    "gateway_about_title": "A dependable partner.",
+    "gateway_about_p": "Structuring and administration of wealth — defined by continuity, confidentiality and a clear commitment to lasting values.",
+    "gateway_about_link": "Read more",
+    "gateway_philosophy_eyebrow": "Philosophy",
+    "gateway_philosophy_title": "In generations, not in quarters.",
+    "gateway_philosophy_p": "Permanence is not built overnight. This conviction shapes every decision we make.",
+    "gateway_philosophy_link": "Our philosophy"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "A dependable partner.",
+    "lead": "We see ourselves as a dependable partner for the structuring and administration of wealth.",
+    "p1": "Our work is defined by continuity, confidentiality and a clear commitment to lasting values.",
+    "p2": "We move with assurance through an environment that demands experience, network and discretion in equal measure."
+  },
+  "activities": {
+    "eyebrow": "Activities",
+    "title": "Values that endure.",
+    "lead": "Our activities encompass the administration of our own assets as well as selected engagements in the field of exclusive tangible assets.",
+    "p1": "With an instinct for quality and permanence, we devote ourselves to values that retain their meaning across generations — from exceptional craftsmanship to art in all its forms."
+  },
+  "philosophy": {
+    "eyebrow": "Philosophy",
+    "title": "In generations, not in quarters.",
+    "lead": "Permanence is not built overnight.",
+    "p1": "We think in generations, not in quarters.",
+    "p2": "This conviction shapes every decision we make and forms the foundation of a trust proven over many years."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "By confidential conversation.",
+    "lead": "Personal dialogue comes first.",
+    "p1": "Every relationship begins with a confidential conversation.",
+    "details_eyebrow": "Address",
+    "details_title": "Addresses.",
+    "office_label": "Office",
+    "office_value": "Holt Family Office GmbH<br>Kemperplatz 1<br>10117 Berlin<br><br><span class=\"dd-meta\">EUID: DEF1103R.HRB288336B</span>",
+    "correspondence_label": "Correspondence",
+    "correspondence_value": "kontakt@holt-familyoffice.com",
+    "appointments_label": "Appointments",
+    "appointments_value": "In person, by prior arrangement.",
+    "download_label": "Overview",
+    "download_value": "Download brochure (PDF)"
+  },
+  "legal": {
+    "eyebrow": "Legal",
+    "title": "Legal notices.",
+    "lead": "This website serves the self-presentation of the Holt Family Office.",
+    "imprint_title": "Imprint",
+    "imprint_body": "Holt Family Office GmbH<br>Kemperplatz 1, 10117 Berlin<br>Germany<br><br>EUID: DEF1103R.HRB288336B",
+    "disclaimer_title": "Disclaimer",
+    "disclaimer_body": "The content published on this site does not constitute investment advice.",
+    "privacy_title": "Privacy",
+    "privacy_body": "This website does not collect personal data for marketing purposes.",
+    "copyright_title": "Copyright",
+    "copyright_body": "All content is protected by copyright."
+  },
+  "footer": {
+    "tagline": "An independent family office.",
+    "col_navigation": "Overview",
+    "col_office": "Office",
+    "col_legal": "Legal",
+    "office_line": "Holt Family Office GmbH<br>Kemperplatz 1<br>10117 Berlin",
+    "rights": "© <span data-year></span> Holt Family Office. All rights reserved.",
+    "tagline_base": "Preserving value. Creating perspective."
+  }
+}
