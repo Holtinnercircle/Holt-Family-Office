@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" data-i18n-attr="content:about.lead" content="A dependable partner." />
+  <link rel="icon" type="image/x-icon" href="images/Logo.png" />
+
+  <title>Über uns — Holt Family Office</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="variables.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="page page--about page--institutional">
+
+  <header class="nav nav--scrolled" role="banner">
+    <div class="nav__inner">
+      <a class="nav__brand" href="index.html" aria-label="Holt Family Office">
+        <img src="images/Logo.png" alt="" />
+        <span class="wordmark">Holt</span>
+        <span class="wordmark-suffix" data-i18n="meta.suffix">Family Office</span>
+      </a>
+      <nav aria-label="Hauptnavigation">
+        <ul class="nav__links">
+          <li><a class="nav__link" href="ueber-uns.html" aria-current="page" data-i18n="nav.about">Über uns</a></li>
+          <li><a class="nav__link" href="taetigkeitsfelder.html" data-i18n="nav.activities">Tätigkeitsfelder</a></li>
+          <li><a class="nav__link" href="philosophie.html" data-i18n="nav.philosophy">Philosophie</a></li>
+          <li><a class="nav__link" href="kontakt.html" data-i18n="nav.contact">Kontakt</a></li>
+        </ul>
+      </nav>
+      <div class="nav__lang" role="group" aria-label="Sprache">
+        <button type="button" data-lang-btn="de" aria-pressed="true">DE</button>
+        <span class="divider" aria-hidden="true"></span>
+        <button type="button" data-lang-btn="en" aria-pressed="false">EN</button>
+        <span class="divider" aria-hidden="true"></span>
+        <button type="button" data-lang-btn="fr" aria-pressed="false">FR</button>
+        <button type="button" class="nav__menu" data-menu-open aria-label="Menü">
+          <span class="nav__menu-bars" aria-hidden="true"></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <aside class="nav__sheet" data-open="false" aria-hidden="true">
+    <div class="nav__sheet-head">
+      <a class="nav__brand" href="index.html">
+        <img src="images/Logo.png" alt="" />
+        <span class="wordmark">Holt</span>
+        <span class="wordmark-suffix" data-i18n="meta.suffix">Family Office</span>
+      </a>
+      <button type="button" class="nav__sheet-close" data-menu-close data-i18n="nav.close">Schliessen</button>
+    </div>
+    <ul class="nav__sheet-links">
+      <li><a href="ueber-uns.html" data-i18n="nav.about">Über uns</a></li>
+      <li><a href="taetigkeitsfelder.html" data-i18n="nav.activities">Tätigkeitsfelder</a></li>
+      <li><a href="philosophie.html" data-i18n="nav.philosophy">Philosophie</a></li>
+      <li><a href="kontakt.html" data-i18n="nav.contact">Kontakt</a></li>
+    </ul>
+  </aside>
+
+  <section class="page-header" data-reveal>
+    <div class="container">
+      <div class="editorial">
+        <div class="editorial__margin">
+          <p class="meta" data-i18n="meta.seat">Berlin</p>
+        </div>
+        <div class="editorial__main">
+          <p class="eyebrow" data-i18n="about.eyebrow">Über uns</p>
+          <h1 class="display-l page-header__title" data-i18n="about.title">Ein verlässlicher Partner.</h1>
+          <p class="lead page-header__lead" data-i18n="about.lead">
+            Wir verstehen uns als verlässlicher Partner für die Strukturierung und Verwaltung von Vermögen.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--no-rule" data-reveal>
+    <div class="container">
+      <div class="editorial">
+        <div class="editorial__margin"></div>
+        <div class="editorial__main">
+          <div class="prose">
+            <p data-i18n="about.p1">
+              Unsere Tätigkeit ist geprägt von Kontinuität, Vertraulichkeit und einem klaren Bekenntnis zu bleibenden Werten.
+            </p>
+            <p data-i18n="about.p2">
+              Dabei bewegen wir uns mit Sicherheit in einem Umfeld, das Erfahrung, Netzwerk und Diskretion gleichermaßen verlangt.
+            </p>
+          </div>
+
+          <div class="spacer-l"></div>
+
+          <!-- IMAGE: about — primary landscape — 16/10 -->
+          <img class="image image--landscape" src="images/Salon.png" alt="" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================ -->
+  <!-- OPTIONAL — 1–3 zusätzliche Bilder einfügen.                   -->
+  <!-- Einfach <img> in eine eigene .section setzen:                 -->
+  <!--                                                               -->
+  <!-- <section class="section section--no-rule" data-reveal>        -->
+  <!--   <div class="container">                                     -->
+  <!--     <img class="image image--bleed"                           -->
+  <!--          src="images/treppenhaus.jpg" alt="" />               -->
+  <!--   </div>                                                      -->
+  <!-- </section>                                                    -->
+  <!--                                                               -->
+  <!-- Varianten: image--bleed | image--landscape | image--portrait  -->
+  <!-- ============================================================ -->
+
+  <footer class="footer" role="contentinfo">
+    <div class="container">
+      <div class="footer__mark">
+        <img src="images/Logo.png" alt="" />
+        <span class="wordmark">Holt <span data-i18n="meta.suffix">Family Office</span></span>
+      </div>
+      <div class="footer__grid">
+        <div class="footer__col"><p data-i18n="footer.tagline">Ein unabhängiges Family Office.</p></div>
+        <div class="footer__col">
+          <h4 data-i18n="footer.col_navigation">Übersicht</h4>
+          <ul>
+            <li><a href="ueber-uns.html" data-i18n="nav.about">Über uns</a></li>
+            <li><a href="taetigkeitsfelder.html" data-i18n="nav.activities">Tätigkeitsfelder</a></li>
+            <li><a href="philosophie.html" data-i18n="nav.philosophy">Philosophie</a></li>
+            <li><a href="kontakt.html" data-i18n="nav.contact">Kontakt</a></li>
+          </ul>
+        </div>
+        <div class="footer__col">
+          <h4 data-i18n="footer.col_office">Sitz</h4>
+          <p data-i18n="footer.office_line">Kemperplatz 1<br>10117 Berlin</p>
+        </div>
+        <div class="footer__col">
+          <h4 data-i18n="footer.col_legal">Rechtliches</h4>
+          <ul>
+            <li><a href="kontakt.html" data-i18n="nav.contact">Kontakt</a></li>
+            <li><a href="legal.html" data-i18n="nav.legal">Rechtliches</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer__base">
+        <p data-i18n="footer.rights">© <span data-year></span> Holt Family Office.</p>
+        <p data-i18n="footer.tagline_base">Werte bewahren. Perspektiven schaffen.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/language.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
